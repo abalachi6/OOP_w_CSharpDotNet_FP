@@ -1,0 +1,10 @@
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\bin\Debug\Goforth-Howser_FinalProject.exe.config
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\bin\Debug\Goforth-Howser_FinalProject.exe
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\bin\Debug\Goforth-Howser_FinalProject.pdb
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth-Howser_FinalProject.csprojAssemblyReference.cache
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth_Howser_FinalProject.Form1.resources
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth_Howser_FinalProject.Properties.Resources.resources
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth-Howser_FinalProject.csproj.GenerateResource.cache
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth-Howser_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth-Howser_FinalProject.exe
+C:\Users\Ashley\Desktop\INFS 3400\Goforth-Howser_FinalProject\Goforth-Howser_FinalProject\obj\Debug\Goforth-Howser_FinalProject.pdb
